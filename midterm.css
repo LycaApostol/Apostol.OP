@@ -1,0 +1,74 @@
+h1 {
+	text-align: center;
+	color: black;
+	border: 3px solid tan;
+	background: hsla(30, 100%, 85%, 0.4);
+	font-family: times new roman;
+}
+#pag1{						
+	font-family: calibre;
+	background: hsla(30, 100%, 85%, 0.3);
+	padding: 10px;
+	margin: 10px;
+	border-radius: 30px;
+}
+body {
+	background: gray;
+	background-image: url(https://wallpapers.com/images/hd/minimalist-purple-sky-and-mountain-ex4suuw5xd4funov.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+table
+{
+	border-collapse: collapse;
+	width: 100%;
+}
+th, td
+{
+	border: 1px solid black; 
+	text-align: left;
+	padding: 10px
+}
+tr:nth-child(even)
+{
+	background-color:hsla(60, 20%, 70%, 0.3);
+}
+nav {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: hsla(9, 100%, 64%, 0.5);
+	overflow: auto;
+}
+nav a {
+	text-decoration: none;
+	display: block;
+	padding: 15px 25px;
+	text-align: center;
+	color: hsl(0, 100%, 0%);
+	margin: 0;
+	font-family: times new roman;
+}
+nav a:hover, a:active{
+	background-color: hsla(9, 100%, 64%, 0.5);
+	color: black;
+}
+#address{
+}
+#footer{ 
+	background-color: hsla(9, 100%, 64%, 0.5);
+	padding: 4vh;
+	color: black;
+}
+div.b{
+	text-indent: 40%;
+}
+div.a{
+	text-indent: 30%;
+}
+div.c{ 
+	text-indent: 30%;
+}
