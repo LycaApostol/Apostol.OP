@@ -73,6 +73,10 @@ div.c{
 	text-indent: 30%;
 }
 .carousel{
-	height: 200px;
-	width: 100px;
+  width: 640px;
+  height: 360px;
+}
+img {
+  width: 100%;
+  height: auto;
 }
