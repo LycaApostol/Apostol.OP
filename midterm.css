@@ -72,3 +72,7 @@ div.a{
 div.c{ 
 	text-indent: 30%;
 }
+.carousel{
+	height: 400px;
+	width: 400px;
+}
